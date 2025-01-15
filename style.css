@@ -4,17 +4,30 @@ body {
   color: white;
 }
 
-
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-image: url("https://www.merrickpetcare.com/sites/default/files/styles/large/public/2024-04/MER-FoodType-CatWet.jpg?itok=IFy94_hW");
   background-size: 400px;
   border-radius: 30px;
-  border: 1px solid rgb(255,245,227);
+  border: 1px solid rgb(255, 245, 227);
 }
 
-.main{
-  display: flex;
-  text-align: left;
-  justify-content: space-around;
+h1 {
+  color: rgb(204, 204, 255);
 }
-
+body {
+  background-color: rgb(91, 44, 111);
+}
+#frank-favs {
+  color: rgb(100, 149, 237);
+}
+#frank {
+  color: pink;
+}
+.hissing {
+  background-color: white;
+  color: red;
+}
+.photo {
+  border: 3px solid pink;
+  border-radius: 25px;
+}
